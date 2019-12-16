@@ -1,0 +1,30 @@
+body{
+    font-family: Arial;
+    color: darkgreen;
+    font-size: 1.5em;
+}
+div{
+    width: 5000px;
+    height: 500px;
+    background: cornsilk;
+    padding-top: 20px;
+}
+
+input{
+    width: 100px;
+    height: 30px;
+    background: cornsilk;
+    font-size: 1em;
+}
+
+input{
+    width: 80px;
+    font-size: 1em;
+}
+
+button{
+    margin-top: 10px;
+    font-size: 0.85em;
+    color: darkgreen;
+    border-radius: 10px;
+}
